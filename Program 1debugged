@@ -20,7 +20,7 @@ flag=-1;
 
 s=s+r*pow(flag,10);
 
-n=n/10:
+n=n/10;
 
 }
 
